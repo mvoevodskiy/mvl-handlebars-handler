@@ -9,10 +9,18 @@
   "dependencies": {
     "handlebars": "^4.7.2",
     "handlebars-helpers": "^0.10.0",
-    "mvloader": "git+https://github.com/mvoevodskiy/mvloader.git",
-    "mvtools": "git+https://github.com/mvoevodskiy/mvtools.git"
+    "mvloader": "0.0.1",
+    "mvtools": "0.0.1"
   },
   "devDependencies": {},
   "author": "mvoevodskiy",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvoevodskiy/mvl-handlebars-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvoevodskiy/mvl-handlebars-handler/issues"
+  },
+  "homepage": "https://github.com/mvoevodskiy/mvl-handlebars-handler#readme"
 }
