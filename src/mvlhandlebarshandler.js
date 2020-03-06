@@ -13,7 +13,7 @@ class Mvlhandlebarshandler extends MVLoaderBase {
 
     render = (template, params) => {
         try {
-            return this.HB.compile(template)(params);
+            return this.HB.compile(String(template))(params);
         } catch (e) {
             console.error('HANDLEBARS ERROR: ', e);
             return '';
