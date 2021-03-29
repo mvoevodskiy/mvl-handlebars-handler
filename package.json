@@ -9,8 +9,8 @@
   "dependencies": {
     "handlebars": "^4.7.3",
     "handlebars-helpers": "^0.10.0",
-    "mvloader": "^1.0.0",
-    "mvtools": "^1.0.1"
+    "mvloader": "^1.0.9",
+    "mvtools": "^1.0.19"
   },
   "devDependencies": {},
   "author": "mvoevodskiy",

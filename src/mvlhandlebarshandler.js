@@ -1,4 +1,4 @@
-const MVLoaderBase = require('mvloader/src/mvloaderbase');
+const { MVLoaderBase } = require('mvloader');
 const Handlebars = require('handlebars');
 const helpers = require('handlebars-helpers');
 
